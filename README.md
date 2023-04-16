@@ -23,4 +23,4 @@ Awesome project ideas list curated for Python programming language.
 | Name            | Description     |
 | --------------- | --------------- |
 | [Text Editor](./projects/advanced/text-editor.md) | A graphic Text Editor |
-| To Be Completed | To Be Completed |
+| [Discord bot](./projects/advanced/discord-bot.md) | simple discord admin bot |
