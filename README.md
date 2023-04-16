@@ -9,7 +9,7 @@ Awesome project ideas list curated for Python programming language.
 | Name                                                                            | Description                      |
 | ------------------------------------------------------------------------------- | -------------------------------- |
 | [Roman to Decimal Converter](./projects/beginner/roman-to-decimal-converter.md) | Convert Roman to Decimal numbers |
-| Guess number | A program where the computer chooses a number in its mind and you guess this number |
+| [Guess number](./projects/beginner/guess-number.md) | A program where the computer chooses a number in its mind and you guess this number |
 
 ### Intermediate
 
