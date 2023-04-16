@@ -22,5 +22,5 @@ Awesome project ideas list curated for Python programming language.
 
 | Name            | Description     |
 | --------------- | --------------- |
-| Text Editor | A graphic program like Notepad with the ability to open, edit and save text files |
-| To Be Completed | To Be Completed |
+| [Text Editor](./projects/advanced/text-editor.md) | A graphic Text Editor |
+| [Discord bot](./projects/advanced/discord-bot.md) | simple discord admin bot |
