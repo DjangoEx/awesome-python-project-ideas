@@ -10,6 +10,7 @@ Awesome project ideas list curated for Python programming language.
 | ------------------------------------------------------------------------------- | -------------------------------- |
 | [Roman to Decimal Converter](./projects/beginner/roman-to-decimal-converter.md) | Convert Roman to Decimal numbers |
 | [Guess number](./projects/beginner/guess-number.md) | A program where the computer chooses a number in its mind and you guess this number |
+| [Password Generator](./projects/beginner/password-generator.md) | Generate a random password with given length |
 
 ### Intermediate
 
