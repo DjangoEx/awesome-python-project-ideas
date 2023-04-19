@@ -17,7 +17,6 @@ Awesome project ideas list curated for Python programming language.
 | Name            | Description     |
 | --------------- | --------------- |
 | [URL Shortener](./projects/intermediate/url-shortner.md) | A URL Shortener reduces the characters or letters in a URL, making them easier to read and remember. |
-| To Be Completed | To Be Completed |
 
 ### Advanced
 
