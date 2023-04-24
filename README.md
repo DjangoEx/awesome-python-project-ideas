@@ -17,6 +17,7 @@ Awesome project ideas list curated for Python programming language.
 | Name            | Description     |
 | --------------- | --------------- |
 | [URL Shortener](./projects/intermediate/url-shortner.md) | A URL Shortener reduces the characters or letters in a URL, making them easier to read and remember. |
+| [Post-It Note](./projects/intermediate/post-it-note.md) | A Post-It note is a small paper with low-tack adhesive at the back, making it attachable to surfaces such as documents or walls. |
 
 ### Advanced
 
